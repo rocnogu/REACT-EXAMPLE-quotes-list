@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Enis Quotes</h1>
+      <h1>Quotes</h1>
       <div>
         <button className="fetch-button" onClick={fetchData}>
           Fetch Data
